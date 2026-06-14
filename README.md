@@ -78,7 +78,7 @@ Multinomial Naive Bayes is a supervised machine learning algorithm commonly used
 
 ### Spam vs Ham Distribution
 
-![Spam Distribution](screenshots/spam_ham_distribution.png)
+![Spam Distribution](Spam vs Ham Messages.png)
 
 ### Message Length Analysis
 
